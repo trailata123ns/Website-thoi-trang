@@ -19,6 +19,7 @@ import org.springframework.stereotype.Service;
 public abstract class BaseService<E extends BaseEntity> {
 
 	public static int SIZE_OF_PAGE = 9;
+	//Hello
 	
 	@PersistenceContext
 	EntityManager entityManager;
