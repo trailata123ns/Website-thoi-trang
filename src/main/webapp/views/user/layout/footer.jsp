@@ -159,5 +159,5 @@ pageEncoding="utf-8"%>
 
 <!-- Start copyright  -->
 <div class="footer-copyright">
-    <p class="footer-company"> &copy; <a href="#">Hades Store</a> Design By : Nguyễn Hải Nam</p>
+    <p class="footer-company"> &copy; <a href="#">Hades Store</a> Design By : Việt Phạm Đức</p>
 </div>
